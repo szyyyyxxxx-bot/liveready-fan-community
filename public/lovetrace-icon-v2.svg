@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="热爱有迹">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17231f"/>
+      <stop offset="1" stop-color="#09110e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="8" y1="32" x2="56" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7ff0c1"/>
+      <stop offset=".68" stop-color="#45d79a"/>
+      <stop offset="1" stop-color="#f2bf62"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#bg)"/>
+  <path d="M8 33h5l3-7 4 14 5-21 5 16h3" fill="none" stroke="url(#line)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 30c0-4 5-6 8-2 3-4 8-2 8 2 0 5-8 10-8 10s-8-5-8-10Z" fill="none" stroke="url(#line)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 24c-4.4 0-7 3.1-7 7 0 5 7 11 7 11s7-6 7-11c0-3.9-2.6-7-7-7Z" fill="#0d1713" stroke="#f2bf62" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="54" cy="31" r="2.3" fill="#f2bf62"/>
+</svg>
